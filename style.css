@@ -18,6 +18,7 @@ header h1 {
         100% {background-color:red; left:0px; top:0px;}
         animation-fill-mode: forwards;
       }
+    }
       
 header {
     padding: 40px;
